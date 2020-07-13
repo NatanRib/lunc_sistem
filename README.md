@@ -1,6 +1,6 @@
 # sistema_lanchonete
 
-A new Flutter project.
+A simple mobile sistem of cafeteria services.
 
 ## Getting Started
 
